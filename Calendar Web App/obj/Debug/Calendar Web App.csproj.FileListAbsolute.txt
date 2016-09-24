@@ -1,0 +1,22 @@
+D:\Appointy Project\Calendar Web App\Calendar Web App\obj\Debug\Calendar Web App.csprojResolveAssemblyReference.cache
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\Calendar Web App.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\Calendar Web App.pdb
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\EntityFramework.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\Microsoft.Web.Infrastructure.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\Newtonsoft.Json.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Helpers.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Mvc.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Razor.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.Deployment.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.Razor.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\EntityFramework.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\Newtonsoft.Json.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Helpers.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Mvc.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.Razor.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.Deployment.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\bin\System.Web.WebPages.Razor.xml
+D:\Appointy Project\Calendar Web App\Calendar Web App\obj\Debug\Calendar Web App.dll
+D:\Appointy Project\Calendar Web App\Calendar Web App\obj\Debug\Calendar Web App.pdb

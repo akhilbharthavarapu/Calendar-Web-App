@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EventDatabaseModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EventDatabaseModelStoreContainer">
+    <EntitySet Name="Events" EntityType="EventDatabaseModel.Store.Events" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Events">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Name="EventID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Description" Type="nvarchar" MaxLength="200" />
+    <Property Name="StartAt" Type="datetime" Nullable="false" />
+    <Property Name="EndAt" Type="datetime" />
+    <Property Name="IsFullDay" Type="bit" Nullable="false" />
+  </EntityType>
+</Schema>
